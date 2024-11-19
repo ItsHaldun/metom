@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "metom"
+version = "0.1.0"
+description = "MLOps for End-to-end Training of Online Models"
+authors = ["Haldun Bucak, Ilkin Berker Topuz"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
