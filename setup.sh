@@ -68,4 +68,7 @@ poetry shell
 echo "Installing project dependencies..."
 poetry install
 
+# Giving permissions to run other scripts
+chmod +x train.sh
+
 echo "Setup completed!"
