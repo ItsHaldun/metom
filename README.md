@@ -18,3 +18,4 @@ chmod +x /path/to/setup.sh
 - [ ] Expand installation to Mac and Windows
 - [ ] Add guides for poetry and pyenv?
 - [ ] Write the script that'll run the actual machine learning training (train.sh)
+- [ ] Change the kaggle download path to be inside the project

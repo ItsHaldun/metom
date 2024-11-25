@@ -1,0 +1,10 @@
+---
+# Project Settings such as model parameters and fixed paths go here
+
+dataset:
+  kaggle_handle: "jp797498e/twitter-entity-sentiment-analysis"
+  train_path: "dataset/train.csv"
+
+training:
+
+model:

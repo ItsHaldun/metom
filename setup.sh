@@ -38,7 +38,7 @@ else
 	curl https://pyenv.run | bash
 
 	# Reload profile
-	source .pyenv_init
+	source .env_init
 
 	# Verify Pyenv installation
 	pyenv --version
