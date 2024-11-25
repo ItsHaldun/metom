@@ -1,6 +1,7 @@
 ## Project Specific Files
 .python-version
 poetry.lock
+*dataset
 
 
 ## Ignore Visual Studio temporary files, build results, and
